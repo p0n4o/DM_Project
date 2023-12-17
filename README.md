@@ -10,15 +10,15 @@ Files in repository:
 4) Select.sql —— PostgresSQL script with necessary selects.
 5) DOP.sql —— PostgresSQL script with triggers and functions:
 
-	      functions:
-	      - get_countries1: Returns the country based on the movie title
-	      - get_avg_score: Returns the average score for all movies in the entered country
+		functions:
+		- get_countries1: Returns the country based on the movie title
+		- get_avg_score: Returns the average score for all movies in the entered country
+		
+		triggers:
+		- check_birthday: Checks that the actor's date of birth is correct
+		- check_rating: Checks the correctness of the rating entered (the rating must be set on a 10-point scale, otherwise the trigger is triggered
 
-              triggers:
-	      - check_birthday: Checks that the actor's date of birth is correct
-  	      - check_rating: Checks the correctness of the rating entered (the rating must be set on a 10-point scale, otherwise the trigger is triggered
-
-!!!  Compilation was done using DBeaver software !!!
+**!!!  Compilation was done using DBeaver software !!!**
 
 Team members:
 
