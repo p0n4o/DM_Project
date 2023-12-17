@@ -16,7 +16,7 @@ Files in repository:
 
               triggers:
 	      - check_birthday: Checks that the actor's date of birth is correct
-  	      - check_rating: Checks the correctness of the rating entered (the rating must be set on 	        a 10-point scale, otherwise the trigger is triggered
+  	      - check_rating: Checks the correctness of the rating entered (the rating must be set on a 10-point scale, otherwise the trigger is triggered
 
 !!!  Compilation was done using DBeaver software !!!
 
