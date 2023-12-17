@@ -1,8 +1,8 @@
-#DM_Project
+# DM_Project
 
 RDB for streaming service for watching TV series and films
 
-#Files in repository:
+# Files in repository:
 
 1) DM_Project_annotation.pdf —— annotation of the database with a description of the structure, functional relationships, tables (including ER and UML diagrams).
 2) Create.sql —— PostgresSQL script creating the tables that make up the database.
@@ -18,11 +18,11 @@ RDB for streaming service for watching TV series and films
 		- check_birthday: Checks that the actor's date of birth is correct
 		- check_rating: Checks the correctness of the rating entered (the rating must be set on a 10-point scale, otherwise the trigger is triggered
 
-#**!!!  Compilation was done using DBeaver software !!!**
+# **!!!  Compilation was done using DBeaver software !!!**
 
-	#Team members:
+# Team members:
 
-	Kendzhaev Alisher (Кенджаев Алишер)
-	Moscharov Dmitriy (Мощаров Дмитрий)
-	Oreshin Vitalii (Орешин Виталий)
-	Yurakov Nazar (Юраков Назар)
+Kendzhaev Alisher (Кенджаев Алишер)
+Moscharov Dmitriy (Мощаров Дмитрий)
+Oreshin Vitalii (Орешин Виталий)
+Yurakov Nazar (Юраков Назар)
