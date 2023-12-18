@@ -4,7 +4,7 @@ RDB for streaming service for watching TV series and films
 
 ## Files in repository:
 
-1) DM_Project_annotation.pdf —— annotation of the database with a description of the structure, functional relationships, tables (including ER and UML diagrams).
+1) DM_Project_annotation.pdf —— annotation of the database describing the structure, functional relationships, tables (including ER and UML diagrams).
 2) Create.sql —— PostgresSQL script creating the tables that make up the database.
 3) Insert.sql —— PostgresSQL script filling tables.
 4) Select.sql —— PostgresSQL script with necessary selects.
